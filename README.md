@@ -1,3 +1,5 @@
+[*Versão em português.*](https://github.com/lucasfacchini/8puzzle-astar/blob/master/README-pt.md)
+
 # Description #
 
 An implementation for solving the 8 puzzle game using A* algorithm, written in Python.
